@@ -19,7 +19,7 @@ Constraints :
 5 <= n <= 20
 c and g comprises a combination of non-repeated letters [ R, G, B, Y, W, V, O, P ] of length 4.
 
-
+** Inputs must follo the constraints **
 # Requirements
 Java 8+
 
